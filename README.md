@@ -7,21 +7,21 @@ I play CTFs mainly with two teams: [@FlatNetworkOrg](https://x.com/FlatNetworkOr
 
 I try to share as much as I can about what I learn on my blog (https://mizu.re/), covering CTF writeups, research projects, and more.
 
-## Conferences
+## 🎤 Conferences
 
 I'm made several conferences for student (ESNA, ESAIP), as well as at other events such as:
 
-* [FR|STUD] [Ambrosia](https://esnhack.fr/events/ambrosia-2025/) (2025): ASIS Finals 2025 Timezones Converter Writeup \w [@_Worty](https://x.com/_worty) ([slides](https://slides.com/kevin-mizu/ambrosia-2025-writeup-asis-finales-2025-timezones-converter-writeup-timezones-converter-writeup)).
-* [EN] [GreHack](https://grehack.fr/) (2024): Playing with HTML parsing to bypass DOMPurify on default configuration ([slides](https://slides.com/kevin-mizu/grehack-2024-playing-with-html-parsing-to-bypass-dompurify-on-default-configuration) | [paper](https://mizu.re/post/exploring-the-dompurify-library-bypasses-and-fixes)).
-* [FR] [SSTIC](https://www.sstic.org/) (2023): Abusing Client-Side Desync on Werkzeug to perform XSS on default configurations ([slides](https://slides.com/kevin-mizu/sstic-2023-abusing-client-side-desync-on-werkzeug-cve-2022-29361) | [paper](https://mizu.re/post/abusing-client-side-desync-on-werkzeug)).
-* [FR|STUD] [Root-Me](https://www.root-me.org/) (2023): You found an XSS? Alright! But, what's next?
-* [FR|STUD] ESAIP Cyber & [Root-Me](https://www.root-me.org/) (2022): Electron Security | CVE-2022-3133 ([slides](https://slides.com/kevin-mizu/electron-cve-2022-3133))
-* [FR|STUD] ESAIP Cyber (2022): Is it possible to bypass an HTML sanitizer?
+* 🇫🇷 [STUD] [Ambrosia](https://esnhack.fr/events/ambrosia-2025/) (2025): ASIS Finals 2025 Timezones Converter Writeup \w [@_Worty](https://x.com/_worty) ([slides](https://slides.com/kevin-mizu/ambrosia-2025-writeup-asis-finales-2025-timezones-converter-writeup-timezones-converter-writeup)).
+* 🇬🇧 [GreHack](https://grehack.fr/) (2024): Playing with HTML parsing to bypass DOMPurify on default configuration ([slides](https://slides.com/kevin-mizu/grehack-2024-playing-with-html-parsing-to-bypass-dompurify-on-default-configuration) | [paper](https://mizu.re/post/exploring-the-dompurify-library-bypasses-and-fixes)).
+* 🇫🇷 [SSTIC](https://www.sstic.org/) (2023): Abusing Client-Side Desync on Werkzeug to perform XSS on default configurations ([slides](https://slides.com/kevin-mizu/sstic-2023-abusing-client-side-desync-on-werkzeug-cve-2022-29361) | [paper](https://mizu.re/post/abusing-client-side-desync-on-werkzeug)).
+* 🇫🇷 [STUD] [Root-Me](https://www.root-me.org/) (2023): You found an XSS? Alright! But, what's next?
+* 🇫🇷 [STUD] ESAIP Cyber & [Root-Me](https://www.root-me.org/) (2022): Electron Security | CVE-2022-3133 ([slides](https://slides.com/kevin-mizu/electron-cve-2022-3133))
+* 🇫🇷 [STUD] ESAIP Cyber (2022): Is it possible to bypass an HTML sanitizer?
 
-## Projects
+## 💼 Projects
 
 I also love coding, mostly in javascript and python. My favorite and main project is [DOMLogger++](https://github.com/kevin-mizu/domloggerpp) which aims to automate the detection of client-side web vulnerabilty (it could has well be used by devs to debbug their app :D).
 
-## Github Stats
+## ⭐ Github Stats
 
 ![kevin-mizu's Stats](https://github-readme-stats.vercel.app/api?username=kevin-mizu&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
