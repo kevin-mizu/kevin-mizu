@@ -20,7 +20,7 @@ I'm made several conferences for student (ESNA, ESAIP), as well as at other even
 
 ## Projects
 
-I also love coding, mostly in javascript and python. My favorite and main project is DOMLogger++ which aims to automate the detection of client-side web vulnerabilty (it could has well be used by devs to debbug their app :D).
+I also love coding, mostly in javascript and python. My favorite and main project is [DOMLogger++](https://github.com/kevin-mizu/domloggerpp) which aims to automate the detection of client-side web vulnerabilty (it could has well be used by devs to debbug their app :D).
 
 ## Github Stats
 
